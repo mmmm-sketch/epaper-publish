@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "count": 3,
+    "count": 6,
     "images": [
         {
             "index": 1,
@@ -13,6 +13,18 @@
         {
             "index": 3,
             "filename": "current003.bin"
+        },
+        {
+            "index": 4,
+            "filename": "current004.bin"
+        },
+        {
+            "index": 5,
+            "filename": "current005.bin"
+        },
+        {
+            "index": 6,
+            "filename": "current006.bin"
         }
     ]
 }
